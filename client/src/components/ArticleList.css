@@ -1,0 +1,17 @@
+.article-list {
+  display: grid;
+  gap: 30px;
+}
+
+.no-articles {
+  text-align: center;
+  padding: 60px 20px;
+  color: #666;
+}
+
+.no-articles p {
+  font-size: 18px;
+}
+
+
+
